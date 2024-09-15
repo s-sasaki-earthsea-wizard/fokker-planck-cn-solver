@@ -32,6 +32,9 @@ make docker-run
 実行方法やチュートリアルを書いてください。
 必要に応じてスクリーンショットや動画を使ってください。
 
+## ライセンス
+このプロジェクトはMITライセンスとして公開されています。詳細は[LICENSE](LICENSE) ファイルをご覧ください。
+
 ## その他
 必要なことがあれば書いてください。
 
@@ -72,6 +75,9 @@ The launched container comes with all necessary dependencies installed for devel
 ## Usage
 Write a running procedure or tutorial.
 Use screenshots and videos if necessary.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Others
 Anything else, please write here.
